@@ -1,7 +1,7 @@
 # Ninja-Run
 **Ninja Run 🥷🏃🏻‍♂️‍➡️ game using Kivy - Python**
 
-This is an implementation for Ninja Run(like Dinosaur offline game on chrome) for a ninja running and avoiding obsacles 𖣘 as my third project in my "How many projects you can do in your last semster" challenge
+This is an implementation for Ninja Run(like Dinosaur offline game on chrome) for a ninja running and avoiding obsacles 𖣘 as my third project in my "All You Can Develop" challenge
 
 # Make APK for Kivy
 
